@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">False Interpreter</string>
+    <string name="action_settings">About</string>
+    <string name="action_like">Like</string>
+
+    <string name="code">Code</string>
+    <string name="input">Input</string>
+    <string name="output">Output</string>
+
+    <string name="start_code">{HELP}</string>
+
+
+</resources>
